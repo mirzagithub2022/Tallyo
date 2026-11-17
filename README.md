@@ -121,4 +121,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## Author
 
-**[Your Name]**: [GitHub](https://github.com/<your-username>)
+**[Mirza Hasan]**: [GitHub](https://github.com/<your-username>)
